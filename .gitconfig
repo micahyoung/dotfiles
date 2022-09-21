@@ -1,0 +1,8 @@
+[user]
+	name = Micah Young
+	email = micah@young.io
+[alias]
+	br = branch
+	ci = commit
+	st = status
+	co = checkout
